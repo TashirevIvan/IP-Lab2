@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(57,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(82,50): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(83,50): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(84,50): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(79,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\cgvgv\source\repos\OI-Lab2\OI-Lab2\Source.cpp(79,6): warning C4101: x: неиспользованная локальная переменная
+  Создание кода
+  1 of 193 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OI-Lab2.vcxproj -> C:\Users\cgvgv\source\repos\OI-Lab2\x64\Release\OI-Lab2.exe
